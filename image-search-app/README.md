@@ -70,7 +70,7 @@ Pic-Kart is a sleek and responsive image search application built with *React, s
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/image-search-app.git
+git clone https://github.com/Rehodra/image-search-app.git
 cd image-search-app
 
 # 2. Install dependencies
