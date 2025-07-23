@@ -2,7 +2,7 @@
 
 # 🔍 Pic-Kart PRO
 
-Pic-Kart is a sleek and responsive image search application built with *React + Vite, styled with **Tailwind CSS* and *DaisyUI, and powered by an external image API like **Pixabay*. It allows users to search and explore high-quality images based on keywords.
+Pic-Kart is a sleek and responsive image search application built with *React + Vite*, styled with *Tailwind CSS* and *DaisyUI*, and powered by an external image API like **Pixabay*. It allows users to search and explore high-quality images based on keywords.
 
 <img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/31bf830a-9967-4b55-bc8a-b355193f3e0d" />
 
