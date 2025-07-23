@@ -1,18 +1,8 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # 🔍 Pic-Kart PRO
 
-Pic-Kart is a sleek and responsive image search application built with *React, styled with **Tailwind CSS* and *DaisyUI, and powered by an external image API like **Pixabay*. It allows users to search and explore high-quality images based on keywords.
+Pic-Kart is a sleek and responsive image search application built with *React + Vite, styled with **Tailwind CSS* and *DaisyUI, and powered by an external image API like **Pixabay*. It allows users to search and explore high-quality images based on keywords.
 
 <img width="1914" height="920" alt="image" src="https://github.com/user-attachments/assets/31bf830a-9967-4b55-bc8a-b355193f3e0d" />
 
