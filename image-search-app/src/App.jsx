@@ -34,7 +34,7 @@ useEffect(() => {
            </div> }
              
       <div className='flex justify-center'><hr className='my-4 border-t border-gray-300 h-0  w-3/4'></hr></div>
-      {loading ? <h1 className='text-2xl font-bold text-center'>Loading...<span className="loading loading-spinner loading-xl"></span></h1> :<div className="flex justify-center align-items-center m-10 ml-40 grid grid-cols-3 gap-4 ">
+      {loading ? <h1 className='text-2xl font-bold text-center'>Loading...<span className="loading loading-spinner loading-xl"></span></h1> :<div className="flex justify-center align-items-center m-20 ml-32 mt-10 grid grid-cols-3 gap-4 ">
         {images.map((image) => {
           return (<ImageCard key={image.id} image={image} />)
         })}
